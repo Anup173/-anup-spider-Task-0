@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
+
 <title>spider task 0</title>
-</head>
+
 <body>
 <h1>SPIDER TASK O </h1>
 <p>Hello My self anup from cse ,me from tripura ,i love coding and all
@@ -10,9 +10,10 @@ and want to join spider club ,below i am giving the link of the game name cherry
 
 </body>
 <style>
-body{
-color:green;
-}
+      body{
+           background-color:green;
+           }
+      
 p{color:violet;}
 </style>
 </html>
