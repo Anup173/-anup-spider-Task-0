@@ -1,6 +1,3 @@
-
-
-
 <html>
 
 <title>spider task 0</title>
