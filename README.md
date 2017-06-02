@@ -17,6 +17,6 @@ and want to join spider club ,below i am giving the link of the game name cherry
            background-color:green;
            }
       
-p{color:violet;}
+p{color:blue;}
 </style>
 </html>
